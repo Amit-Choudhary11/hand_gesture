@@ -1,0 +1,49 @@
+body {
+  background-image: url('Background.jpg');
+}
+span
+{
+  font-size: 30px;
+}
+#webcam , #result, #snapshot
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading
+{
+  color: rgb(0, 25, 252);
+  border-radius: 7px;
+  border-width: 4px;
+  border-color: rgb(0, 25, 252);
+  letter-spacing: 10px;
+  font-size: x-large;
+}
+.circle label
+{
+  background-color: rgb(25, 0, 255);
+  border-radius: 20px;
+  width: 25%;
+  color: white;
+}
+.another_circle
+{
+  background-color: rgb(25, 0, 255);
+  border-radius: 20px;
+  width: 31%;
+  color: white;
+}
+
